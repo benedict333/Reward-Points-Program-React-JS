@@ -1,7 +1,6 @@
-# Retailer Rewards Program (React-JS)
+# Retailer Reward Points Program (React-JS)
 
-A React solution implementing the rewards calculation with a fake async API, clear
-folder structure, unit tests, and minimal dependencies (Create React App stack).
+A React solution implementing the reward points calculation with a fake async API and unit tests (Create React App stack).
 
 ## Run
 
