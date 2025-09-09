@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Reward-Points-Program-React-JS/static/css/main.97400098.css",
+    "main.js": "/Reward-Points-Program-React-JS/static/js/main.622b3c0a.js",
+    "index.html": "/Reward-Points-Program-React-JS/index.html",
+    "main.97400098.css.map": "/Reward-Points-Program-React-JS/static/css/main.97400098.css.map",
+    "main.622b3c0a.js.map": "/Reward-Points-Program-React-JS/static/js/main.622b3c0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97400098.css",
+    "static/js/main.622b3c0a.js"
+  ]
+}
